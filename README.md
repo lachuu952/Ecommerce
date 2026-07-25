@@ -176,7 +176,7 @@ This dashboard enables business users to monitor sales performance, evaluate pro
 
 ### Executive Dashboard
 
-
+https://github.com/lachuu952/Ecommerce/blob/main/Executive%20Dashboard%20ss.png
 
 ---
 

@@ -188,7 +188,7 @@ https://github.com/lachuu952/Ecommerce/blob/main/Product%20dashboard%20ss.png
 
 ### Customer Insights Dashboard
 
-(Add Screenshot Here)
+https://github.com/lachuu952/Ecommerce/blob/main/Customer%20dashord%20ss.png
 
 ---
 

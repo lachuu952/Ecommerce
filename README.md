@@ -182,7 +182,7 @@ This dashboard enables business users to monitor sales performance, evaluate pro
 
 ### Product Performance Dashboard
 
-(Add Screenshot Here)
+https://github.com/lachuu952/Ecommerce/blob/main/Product%20dashboard%20ss.png
 
 ---
 
